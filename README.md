@@ -2,7 +2,7 @@
 
 Teknologi :
 1. JavaScript
-2. ReactJS
+2. ReactJS VITE
 3. Axios
 4. Tailwind css
 
